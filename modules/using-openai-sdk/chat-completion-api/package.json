@@ -1,0 +1,16 @@
+{
+  "name": "cli-assistant",
+  "version": "1.0.0",
+  "description": "A CLI assistant powered by OpenAI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.87.3"
+  }
+}
